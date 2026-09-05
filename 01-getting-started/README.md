@@ -196,9 +196,8 @@ Enterprise Agent Architecture
 
 For the latest concepts and APIs, refer to the official Microsoft Agent Framework documentation.
 
-* Microsoft Agent Framework Documentation
-* Microsoft Agent Framework Samples
-* Microsoft Agent Framework GitHub Repository
+* [Microsoft Agent Framework Documentation](https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-python)
+* [Microsoft Agent Framework GitHub Repository](https://github.com/microsoft/agent-framework)
 
 # 📝 Learning Notes
 
