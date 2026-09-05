@@ -198,6 +198,7 @@ For the latest concepts and APIs, refer to the official Microsoft Agent Framewor
 
 * [Microsoft Agent Framework Documentation](https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-python)
 * [Microsoft Agent Framework GitHub Repository](https://github.com/microsoft/agent-framework)
+* [Microsoft Agent Framework Samples](https://github.com/microsoft/agent-framework-samples)
 
 # 📝 Learning Notes
 
