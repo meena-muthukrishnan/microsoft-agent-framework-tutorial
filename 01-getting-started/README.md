@@ -203,14 +203,14 @@ For the latest concepts and APIs, refer to the official Microsoft Agent Framewor
 
 For each topic in this repository, I will document:
 
-**Concept** – What is it?
-**Why** – Why is it needed?
-**Architecture** – How does it work?
-**Implementation** – How can it be built?
-**Execution** – What happens when it runs?
-**Observations** – What did I learn?
-**Use Cases** – Where can it be applied?
-**Enterprise Perspective** – How can it be used in real-world solutions?
+* **Concept** – What is it?
+* **Why** – Why is it needed?
+* **Architecture** – How does it work?
+* **Implementation** – How can it be built?
+* **Execution** – What happens when it runs?
+* **Observations** – What did I learn?
+* **Use Cases** – Where can it be applied?
+* **Enterprise Perspective** – How can it be used in real-world solutions?
 
 # ⚠️ Disclaimer
 
